@@ -1,0 +1,10 @@
+
+:host-context(.theme-client1) {
+    @import "./tenent1.scss";
+    @import "./app.component.scss";
+}
+  
+:host-context(.theme-client2) {
+    @import "./tenent2.scss";
+    @import "./app.component.scss";
+}
